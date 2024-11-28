@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bob-h-Qin
+- 👀 A junior majoring in Big Data at SUFE
+- 🌱 Now studying machine learning
+- 📫 You can connect me at qinhaotutu@163.com 
